@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Text Mining in PostgreSQL
 
 ```yaml
 type: VideoExercise
